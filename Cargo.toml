@@ -1,0 +1,9 @@
+[package]
+name = "rust_calls_cpp_calls_c"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+libc = "0.2"
+
+[build-dependencies]
